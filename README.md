@@ -2,4 +2,4 @@
 
 Folder `organization` contains setup of organization and creates subaccounts.
 
-Folder `access_subaccount_from_root` contains assume subaccount role example.
+Folder `access_subaccount_from_root` contains assume subaccount role example. 
