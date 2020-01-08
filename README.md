@@ -1,4 +1,4 @@
-# Terraform Aws example organization
+# Terraform Aws example organization 
 
 Folder `organization` contains setup of organization and creates subaccounts.
 
