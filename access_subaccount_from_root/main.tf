@@ -5,7 +5,8 @@ provider "aws" {
   }
 }
 
-
-
-
-
+## ROOT ACCOUNT PROVIDER
+provider "aws" {
+  alias  = "root"
+  region = "${var.region}"
+}
